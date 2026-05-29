@@ -1,0 +1,27 @@
+{
+  "name": "Fiszki Pro",
+  "short_name": "Fiszki Pro",
+  "description": "Zaawansowana aplikacja do nauki fiszek — SM-2, KaTeX, Image Occlusion",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0c0c14",
+  "theme_color": "#0c0c14",
+  "orientation": "portrait-primary",
+  "lang": "pl",
+  "categories": ["education", "productivity"],
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Nauka",
+      "url": "./index.html",
+      "description": "Zacznij sesję nauki"
+    }
+  ]
+}
